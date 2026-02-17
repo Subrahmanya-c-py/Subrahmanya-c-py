@@ -28,11 +28,10 @@ I enjoy working in teams and want to contribute to a forward-thinking organizati
 <details>
 <summary><b>🚀 Academic Projects</b></summary>
 
-### 🏥 **Hospital Management System (DBMS Project)**
-- Built a normalized MySQL database with relational tables  
-- Implemented SQL queries, triggers & procedures  
-- Managed appointments, billing, prescriptions, inventory  
-- Improved automation & data integrity  
+### 🏥  Hospital Management System (Core Java)
+◦ Developed a console-based system implementing CRUD operations for patients, doctors, and appointments.
+◦ Utilized File Handling for persistent storage and Collections Framework for efficient memory management.
+◦ Applied OOP principles and layered architecture to ensure modularity, maintainability, and scalability.
 
 ---
 
@@ -56,7 +55,7 @@ I enjoy working in teams and want to contribute to a forward-thinking organizati
 <summary><b>🎓 Education</b></summary>
 
 **ACS College of Engineering, Bengaluru (2022–2026)**  
-🎓 B.E. in Computer Science — **CGPA: 7.89/10**
+🎓 B.E. in Computer Science — **CGPA: 8.00/10**
 
 **Govt PU College, Kundapura (2020–2022)**  
 📘 PUC — **67.16%**
@@ -74,6 +73,7 @@ I enjoy working in teams and want to contribute to a forward-thinking organizati
 - Core Java (OOP)
 - Python (Basics)
 - C, C++
+- Basic React.
 
 ### **Soft Skills**
 - Problem Solving  
