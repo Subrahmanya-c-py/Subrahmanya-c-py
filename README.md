@@ -1,116 +1,162 @@
 <h1 align="center">Hi 👋, I'm Subrahmanya</h1>
-<h3 align="center">Computer Science Engineering Student | Java | Python | Embedded Systems</h3>
+
+<h3 align="center">
+Computer Science and Engineering Graduate | Java Developer | Software Developer
+</h3>
+
+<p align="center">
+<a href="mailto:subramanyau04@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/subramanya-u-662a49264/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/subrahmanya-tech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📫 Contact  
-📍 Bengaluru, India  
-📧 Email: **subramanyau04@gmail.com**  
-📞 Phone: **+91-7483070278**  
-🔗 LinkedIn: https://www.linkedin.com/in/subramanya-u-662a49264  
+# 👨‍💻 About Me
+
+🎓 Computer Science and Engineering Graduate from **ACS College of Engineering, Bengaluru**
+
+💻 Passionate about **Software Development**, **Java**, and solving real-world problems through technology.
+
+🚀 Completed my internship at **MR.TECHLAB LLP**, where I worked on AI-powered software development projects.
+
+🌱 Currently improving my knowledge in **Advanced Java**, **Spring Boot**, **React**, and **SQL**.
+
+🤝 Always eager to learn new technologies and contribute to meaningful software projects.
 
 ---
 
-# 📂 Interactive Resume
+# 💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+
+- Java
+- C
+- Python (Basic)
+
+### 🌐 Web Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React (Basics)
+
+### 🗄️ Database
+
+- SQL
+- MySQL
+
+### 🛠️ Developer Tools
+
+- Git
+- GitHub
+- VS Code
+- Eclipse
+- Postman
+
+### 📚 Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures
+- File Handling
+- REST API
 
 ---
 
-<details>
-<summary><b>👨‍💻 Summary</b></summary>
+# 🚀 Featured Projects
 
-I am a passionate CSE student skilled in **Core Java**, **Python**, **C**, and **C++**.  
-I learn fast, solve problems effectively, and maintain a responsible mindset.  
-I enjoy working in teams and want to contribute to a forward-thinking organization.
-</details>
+## 🏥 Hospital Management System
 
----
-
-<details>
-<summary><b>🚀 Academic Projects</b></summary>
-
-### 🏥  Hospital Management System (Core Java)
-◦ Developed a console-based system implementing CRUD operations for patients, doctors, and appointments.
-◦ Utilized File Handling for persistent storage and Collections Framework for efficient memory management.
-◦ Applied OOP principles and layered architecture to ensure modularity, maintainability, and scalability.
+- Developed a console-based Hospital Management System using **Core Java**.
+- Implemented CRUD operations for Patients, Doctors, and Appointments.
+- Applied Object-Oriented Programming and File Handling concepts.
+- Designed a modular architecture for maintainability and scalability.
 
 ---
 
-### 🚗 **Arduino RC Car (Wireless Control)**
-- Built a Bluetooth-enabled Arduino robot car  
-- Used motor driver modules & DC motors  
-- Enabled mobile-based wireless navigation  
+## 🤖 AI-Powered Code Documentation Generator
+
+- Developed an offline AI documentation system using **React**, **Django REST Framework**, and **Ollama (Qwen2.5-Coder)**.
+- Implemented JWT Authentication and PDF/DOCX export functionality.
+- Automated source code documentation while ensuring complete offline processing and enhanced data privacy.
 
 ---
 
-### 🤖 **Arduino-Based Firefighting Robot**
-- Designed a fire-detection and extinguishing robot  
-- Used IR / flame sensors for detection  
-- Implemented PID-based navigation  
-- Written firmware in Embedded C/C++  
-</details>
+# 💼 Internship Experience
+
+## AUTODEV AI Intern
+
+**MR.TECHLAB LLP, Bengaluru**
+
+- Worked on AI-powered documentation generation software.
+- Collaborated with developers in debugging, testing, and implementing new features.
+- Followed Git-based version control and Software Development Life Cycle (SDLC) practices.
 
 ---
 
-<details>
-<summary><b>🎓 Education</b></summary>
+# 🎓 Education
 
-**ACS College of Engineering, Bengaluru (2022–2026)**  
-🎓 B.E. in Computer Science — **CGPA: 8.00/10**
+### Bachelor of Engineering (Computer Science and Engineering)
 
-**Govt PU College, Kundapura (2020–2022)**  
-📘 PUC — **67.16%**
+**ACS College of Engineering, Bengaluru**
 
-**Govt High School, Uppinakudru (2017–2020)**  
-📕 SSLC — **78.56%**
-</details>
+**CGPA:** 8.16 / 10
 
 ---
 
-<details>
-<summary><b>🧠 Skills</b></summary>
+# 📜 Certifications
 
-### **Technical Skills**
-- Core Java (OOP)
-- Python (Basics)
-- C, C++
-- Basic React.
-
-### **Soft Skills**
-- Problem Solving  
-- Quick Learning  
-- Leadership  
-- Calm Under Pressure  
-- Adaptable  
-- Good Listener  
-- Well-Mannered  
-</details>
+- 📘 Data Analytics with Python — NPTEL
+- 📗 C Programming — Keonics Computer Class
+- 🏅 Technical Quiz Competition — Participant
 
 ---
 
-<details>
-<summary><b>🏆 Certifications & Achievements</b></summary>
+---
 
-- Data Analytics with Python – NPTEL  
-- C Programming – Keonics Computer Class  
-- Technical Quiz Competition (Participation)  
-- Speed Typing Competition (Participation)  
-</details>
+# 🌱 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- React
+- SQL
+- Software Development Best Practices
 
 ---
 
-<details>
-<summary><b>🎯 Hobbies & Interests</b></summary>
+# 🌐 Connect with Me
 
-- Playing Chess  
-- Listening to Music  
-- Cooking  
-- Cycling  
-- Watching Movies  
-- Cubing  
-- Fishing  
-</details>
+📍 **Bengaluru, Karnataka, India**
+
+📧 **Email:** subramanyau04@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/subramanya-u-662a49264/
+
+🐙 **GitHub:**  
+https://github.com/subrahmanya-tech
 
 ---
 
-## ⭐ Thank you for visiting my profile!
-Feel free to reach out or check my projects!
+# 💡 Career Objective
+
+To begin my professional career as a Software Developer where I can apply my technical knowledge, continuously learn emerging technologies, and contribute to developing innovative software solutions while growing as a software engineer.
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
