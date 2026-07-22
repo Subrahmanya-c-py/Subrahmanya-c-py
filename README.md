@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subrahmanya</h1>
+<h1 align="center">Hi 👋, I'm SUBRAHMANYA</h1>
 
 <h3 align="center">
 Computer Science and Engineering Graduate | Java Developer | Software Developer
@@ -9,7 +9,7 @@ Computer Science and Engineering Graduate | Java Developer | Software Developer
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/subramanya-u-662a49264/">
+<a href="https://www.linkedin.com/in/subrahmanya77u77/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -140,7 +140,7 @@ Computer Science and Engineering Graduate | Java Developer | Software Developer
 📧 **Email:** subramanyau04@gmail.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/subramanya-u-662a49264/
+https://www.linkedin.com/in/subrahmanya77u77/
 
 🐙 **GitHub:**  
 https://github.com/subrahmanya-tech
